@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Template_Projet3\Template_Projet3\bin\Debug\Template_Projet3.exe.config
+C:\Users\Student\Desktop\Template_Projet3\Template_Projet3\bin\Debug\Template_Projet3.exe
+C:\Users\Student\Desktop\Template_Projet3\Template_Projet3\bin\Debug\Template_Projet3.pdb
+C:\Users\Student\Desktop\Template_Projet3\Template_Projet3\obj\Debug\Template_Projet3.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Template_Projet3\Template_Projet3\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\Template_Projet3\Template_Projet3\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\Template_Projet3\Template_Projet3\obj\Debug\Template_Projet3_MarkupCompile.cache
+C:\Users\Student\Desktop\Template_Projet3\Template_Projet3\obj\Debug\Template_Projet3_MarkupCompile.lref
+C:\Users\Student\Desktop\Template_Projet3\Template_Projet3\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\Template_Projet3\Template_Projet3\obj\Debug\Template_Projet3.g.resources
+C:\Users\Student\Desktop\Template_Projet3\Template_Projet3\obj\Debug\Template_Projet3.Properties.Resources.resources
+C:\Users\Student\Desktop\Template_Projet3\Template_Projet3\obj\Debug\Template_Projet3.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Template_Projet3\Template_Projet3\obj\Debug\Template_Projet3.exe
+C:\Users\Student\Desktop\Template_Projet3\Template_Projet3\obj\Debug\Template_Projet3.pdb
